@@ -37,7 +37,7 @@ sudo ip route add 192.168.20.0/24 via 192.168.4.136
 
 
 ## Video Walkthrough
-[Link to YouTube Video]
+https://youtu.be/Vs0Ftor29xY
 
 ## Related Project
 This lab serves as the foundation for an AI-powered network troubleshooting agent: https://www.youtube.com/@RishiNetworks
